@@ -1,0 +1,1 @@
+# AI-Intelligent-College-Manager
