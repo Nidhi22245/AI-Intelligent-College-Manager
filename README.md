@@ -15,4 +15,4 @@ The Intelligent College Manager is a comprehensive solution to enhance the effic
 
 This project is licensed under the [MIT License](LICENSE). 
 
-## Video
+[Watch the Video]([https://www.youtube.com/your-video-link](https://www.linkedin.com/posts/nidhi-nehere_ai-python-deeplearning-activity-7166329926869106689-LTGW?utm_source=share&utm_medium=member_desktop)https://www.linkedin.com/posts/nidhi-nehere_ai-python-deeplearning-activity-7166329926869106689-LTGW?utm_source=share&utm_medium=member_desktop)
